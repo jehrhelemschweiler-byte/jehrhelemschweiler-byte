@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22jehrhelemschweiler-byte%22%2C%22name%22%3A%22Jehrhel%20Emschweiler%22%2C%22email%22%3A%22jehrhel.emschweiler%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%22TCP%2FIP%22%2C%22DNS%22%2C%22DHCP%22%2C%22Wi-Fi%22%2C%22VPN%22%2C%22Network%2B%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Virtualization%22%2C%22Operating%20Systems%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22jehrhelemschweiler-byte%22%2C%22name%22%3A%22Jehrhel%20Emschweiler%22%2C%22email%22%3A%22jehrhel.emschweiler%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%22TCP%2FIP%22%2C%22DNS%22%2C%22DHCP%22%2C%22Wi-Fi%22%2C%22VPN%22%2C%22Network%2B%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Virtualization%22%2C%22Operating%20Systems%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Networking%20Course%20Complete%20Certificate%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1leDtnC2iElUhD6vw81ivxfeB_tmlzGTx%3Fdmr%3D1%26ec%3Dwgc-drive-%255Bmodule%255D-goto%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -35,7 +35,9 @@
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Networking Course Complete Certificate | — | ⏳ Pending | [Open](https://drive.google.com/drive/folders/1leDtnC2iElUhD6vw81ivxfeB_tmlzGTx?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) |
 
 </details>
 
